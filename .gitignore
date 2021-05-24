@@ -1,8 +1,3 @@
-# Data files
-RSI_tickers/
-RSI_model/
-RSI_active/
-
 # MacOS Folder view configuration files
 .DS_Store
 Desktop.ini
